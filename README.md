@@ -239,7 +239,7 @@ An agentic conversational router engineered to dynamically switch contexts and s
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanyam0385&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=Sanyam0385&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
