@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sanyam0385" target="_blank">
+  <a href="https://3d-portfolio-main-xi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/sanyambabbar" target="_blank">
+  <a href="https://www.linkedin.com/in/sanyam-babbar-542729232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ssanyam_be23@thapar.edu">
