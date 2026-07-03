@@ -277,13 +277,13 @@ open_to: "AI/ML Engineering positions, research collaborations, and open-source 
   <a href="mailto:ssanyam_be23@thapar.edu">
     <img src="https://img.shields.io/badge/Gmail-ssanyam__be23%40thapar.edu-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/sanyambabbar">
+  <a href="https://www.linkedin.com/in/sanyam-babbar-542729232/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Sanyam0385">
     <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/Sanyam0385">
+  <a href="https://3d-portfolio-main-xi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
