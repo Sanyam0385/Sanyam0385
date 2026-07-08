@@ -208,7 +208,7 @@ An agentic conversational router engineered to dynamically switch contexts and s
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/Sanyam0385" target="_blank">
+  <a href="https://leetcode.com/u/Sanyam0308/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://geeksforgeeks.org/" target="_blank">
