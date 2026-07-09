@@ -186,21 +186,16 @@ An agentic conversational router engineered to dynamically switch contexts and s
 
 ## 📜 Certifications
 
-### ☁️ AWS
-* [![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-* [![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-
-### 🔴 Oracle
-* [![Oracle Database SQL](https://img.shields.io/badge/Oracle-Database%20SQL%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white)](https://education.oracle.com/)
-
-### 🎓 NPTEL
-* [![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine%20Learning%20Certification-8B5CF6?style=flat-square&logo=gitbook&logoColor=white)](https://nptel.ac.in/)
-* [![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6366F1?style=flat-square&logo=gitbook&logoColor=white)](https://nptel.ac.in/)
-
-### 🔵 Cisco & Others
-* [![Cisco Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician%20Credential-1B365D?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
-* [![Qualcomm 5G](https://img.shields.io/badge/Qualcomm-Intro%20to%205G-3253A8?style=flat-square&logo=qualcomm&logoColor=white)](https://www.qualcomm.com/)
+### ☁️ Delloite
 * [![Deloitte Data Analytics](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-00A3E0?style=flat-square&logo=deloitte&logoColor=white)](https://www.deloitte.com/)
+
+### 🔴 Qualcomm
+* [![Qualcomm 5G](https://img.shields.io/badge/Qualcomm-Intro%20to%205G-3253A8?style=flat-square&logo=qualcomm&logoColor=white)](https://www.qualcomm.com/)
+
+### 🔵 Cisco 
+* [![Cisco Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician%20Credential-1B365D?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
+
+### Udemy
 * [![Udemy ML & AI](https://img.shields.io/badge/Udemy-Machine%20Learning%20%26%20AI-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/)
 
 ---
