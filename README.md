@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/TIET-B.E.%20Electronics%20%26%20Communication-8B5CF6?style=flat-square&logo=gitbook&logoColor=white" alt="TIET ECE"/>
   </a>
   <a href="https://github.com/Sanyam0385" target="_blank">
-    <img src="https://img.shields.io/badge/GPA-8.87%20%2F%2010.0-6366F1?style=flat-square&logo=google-sheets&logoColor=white" alt="GPA"/>
+    <img src="https://img.shields.io/badge/GPA-8.94%20%2F%2010.0-6366F1?style=flat-square&logo=google-sheets&logoColor=white" alt="GPA"/>
   </a>
   <a href="https://github.com/Sanyam0385" target="_blank">
     <img src="https://img.shields.io/badge/Location-Chandigarh%2C%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
